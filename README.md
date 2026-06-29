@@ -64,7 +64,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  🛡️  MITRE ATT&CK     │  Tactics, Techniques & Procedures (TTPs)       ║
+║  🛡️  MITRE ATT&CK      │  Tactics, Techniques & Procedures (TTPs)        ║
 ║  🔗  Kill Chain        │  Reconnaissance → Exfiltration Analysis         ║
 ║  🏭  Supply Chain      │  Third-party Risk & Attack Vector Analysis      ║
 ║  🕵️  Threat Intel      │  IOC Management via MISP & OpenCTI              ║
@@ -94,9 +94,9 @@
 ```
 ┌────────────────────────────────────────────────────────┐
 │  📄  Static Analysis   →  PE Headers, Strings, Hashes  │
-│  ⚙️  Dynamic Analysis  →  Sandbox, Behavioral Study     │
+│  ⚙️  Dynamic Analysis  →  Sandbox, Behavioral Study    │
 │  🔧  Reverse Eng.      →  Disassembly & Decompilation  │
-│  🧩  MITRE Mapping     →  Malware TTP Classification    │
+│  🧩  MITRE Mapping     →  Malware TTP Classification   │
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -137,8 +137,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  📜  Certifications   :  CCNA 1 · CCNA 2 · CCNA 3 · CCNA 4     ║
-║  🌐  Protocols        :  TCP/IP · DNS · DHCP · BGP · OSPF · VPN ║
+║  📜  Certifications   :  CCNA 1 · CCNA 2 · CCNA 3 · CCNA 4       ║
+║  🌐  Protocols        :  TCP/IP · DNS · DHCP · BGP · OSPF · VPN  ║
 ║  🔧  Infrastructure   :  Routing · Switching · Firewalls · VLANs ║
 ║  📡  Security Nets    :  IDS/IPS · Packet Analysis · Monitoring  ║
 ╚══════════════════════════════════════════════════════════════════╝
