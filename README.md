@@ -18,14 +18,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                         PROFILE SUMMARY                             ║
+║                         PROFILE SUMMARY                              ║
 ╠══════════════════╦═══════════════════════════════════════════════════╣
-║  🇲🇦 Location    ║  Morocco                                          ║
+║  🇲🇦 Location     ║  Morocco                                          ║
 ║  🎓 Education    ║  Final Year — Engineering in Cybersecurity        ║
 ║  🔵 Blue Team    ║  SOC Operations, SIEM, Threat Intelligence        ║
 ║  🔴 Red Team     ║  Penetration Testing, Vulnerability Assessment    ║
 ║  🦠 Malware Lab  ║  Malware Analysis & Reverse Engineering           ║
-║  📡 Networking   ║  CCNA 1/2/3/4 Certified — Protocols & Infra      ║
+║  📡 Networking   ║  CCNA 1/2/3/4 Certified — Protocols & Infra       ║
 ║  💻 Dev Skills   ║  Full-Stack · Databases · ML · LLMs               ║
 ║  🎯 Goal         ║  Cybersecurity Consultant                         ║
 ╚══════════════════╩═══════════════════════════════════════════════════╝
