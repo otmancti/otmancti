@@ -176,7 +176,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://tryhackme.com/p/otmancti">
+  <a href="https://tryhackme.com/p/OTHMANIAchraf">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   &nbsp;
