@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OTHMANI ACHRAF&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=otmancti&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=for-the-badge&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff41?style=for-the-badge" />
 </p>
