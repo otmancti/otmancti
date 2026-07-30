@@ -149,8 +149,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otmanicti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmanicti&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otmancti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmancti&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" />
 </div>
 
 <div align="center">
